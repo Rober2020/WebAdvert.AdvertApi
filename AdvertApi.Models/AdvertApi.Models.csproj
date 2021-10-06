@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Rober R.</Authors>
+    <Company>None</Company>
+    <Product>Web AWS</Product>
+    <PackageProjectUrl>https://github.com/Rober2020/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Rober2020/WebAdvert.AdvertApi</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

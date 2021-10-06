@@ -1,0 +1,10 @@
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\bin\Debug\netcoreapp3.1\AdvertApi.Models.deps.json
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\bin\Debug\netcoreapp3.1\AdvertApi.Models.dll
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\bin\Debug\netcoreapp3.1\AdvertApi.Models.pdb
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.csproj.AssemblyReference.cache
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.AssemblyInfoInputs.cache
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.AssemblyInfo.cs
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.csproj.CoreCompileInputs.cache
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.dll
+E:\Sources\AWS\10- proyecto grande\WebAdvert.AdvertApi\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.pdb
